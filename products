@@ -2562,15 +2562,15 @@
   },
   {
     "id": 225,
-    "title": "Irishas product new",
-    "slug": "irishas-product-new",
+    "title": "Irishas product ",
+    "slug": "irishas-product",
     "price": 1500,
     "description": "A description",
     "category": {
       "id": 64,
       "name": "Hair 1773576151",
       "slug": "hair-1773576151",
-      "image": "https://placeimg.com/640/480/any",
+      "image": "https://img.packworld.com/files/base/pmmi/all/image/2022/04/Irish_Spring_family_3.6250f5fd1b937.png?auto=format%2Ccompress&q=70&w=400",
       "creationAt": "2026-03-15T12:02:31.000Z",
       "updatedAt": "2026-03-15T12:02:31.000Z"
     },
