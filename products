@@ -1,244 +1,245 @@
 [
   {
     "id": 1,
-    "title": "iPhone 15 Pro Max",
-    "price": 2400,
-    "category": "Electronics",
-    "description": "Titanium design, A17 Pro chip, and advanced camera system.",
-    "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Grey Hooded Sweatshirt",
+    "price": 90,
+    "category": "Clothes",
+    "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt, made from soft cotton blend.",
+    "images": ["https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800"]
   },
   {
     "id": 2,
-    "title": "MacBook Air M2",
-    "price": 1800,
-    "category": "Electronics",
-    "description": "Supercharged by M2, strikingly thin and fast laptop.",
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Black Hooded Sweatshirt",
+    "price": 79,
+    "category": "Clothes",
+    "description": "Timeless black hoodie featuring a spacious kangaroo pocket and adjustable drawstring.",
+    "images": ["https://images.unsplash.com/photo-1509948914832-132ff300c7ee?w=800"]
   },
   {
     "id": 3,
-    "title": "Nike Air Max 270",
-    "price": 150,
-    "category": "Shoes",
-    "description": "Big Air for big style and all-day comfort.",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Comfort Fit Joggers",
+    "price": 25,
+    "category": "Clothes",
+    "description": "Experience maximum comfort with these breathable and stylish joggers.",
+    "images": ["https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800"]
   },
   {
     "id": 4,
-    "title": "Sony WH-1000XM5",
-    "price": 350,
-    "category": "Electronics",
-    "description": "Industry-leading noise canceling wireless headphones.",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Navy Blue Baseball Cap",
+    "price": 61,
+    "category": "Accessories",
+    "description": "A sleek navy blue cap with a curved brim for a classic sporty look.",
+    "images": ["https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800"]
   },
   {
     "id": 5,
-    "title": "Samsung Galaxy S24 Ultra",
-    "price": 2100,
-    "category": "Electronics",
-    "description": "AI-powered smartphone with 200MP camera and S-Pen.",
-    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Blue Baseball Cap",
+    "price": 86,
+    "category": "Accessories",
+    "description": "Top off your outfit with this durable and adjustable blue baseball cap.",
+    "images": ["https://images.unsplash.com/photo-1576872481779-181ae3f4c9b3?w=800"]
   },
   {
     "id": 6,
-    "title": "Levi's 501 Original Jeans",
-    "price": 85,
+    "title": "Classic Olive Chino Shorts",
+    "price": 84,
     "category": "Clothes",
-    "description": "The original blue jean since 1873. Straight fit.",
-    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=400"
+    "description": "Versatile olive green chino shorts, perfect for summer outings.",
+    "images": ["https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800"]
   },
   {
     "id": 7,
-    "title": "Adidas Ultraboost Light",
-    "price": 190,
-    "category": "Shoes",
-    "description": "Epic energy in every step. Lightweight running shoes.",
-    "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic High-Waisted Athletic Shorts",
+    "price": 43,
+    "category": "Clothes",
+    "description": "Stay active in these high-waisted shorts designed for performance and style.",
+    "images": ["https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800"]
   },
   {
     "id": 8,
-    "title": "H&M Oversized Hoodie",
-    "price": 40,
+    "title": "Classic White Crew Neck T-Shirt",
+    "price": 39,
     "category": "Clothes",
-    "description": "Soft, heavy sweatshirt fabric with a relaxed fit.",
-    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=400"
+    "description": "A must-have basic white tee made from 100% premium cotton.",
+    "images": ["https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800"]
   },
   {
     "id": 9,
-    "title": "Rolex Submariner Date",
-    "price": 12000,
-    "category": "Accessories",
-    "description": "The benchmark for divers’ watches since 1953.",
-    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&q=80&w=400"
+    "title": "Sleek White & Orange Wireless Controller",
+    "price": 69,
+    "category": "Electronics",
+    "description": "Modern gaming controller with precise sticks and custom orange accents.",
+    "images": ["https://images.unsplash.com/photo-1592840496694-26d035b52b48?w=800"]
   },
   {
     "id": 10,
-    "title": "Dell XPS 15 Laptop",
-    "price": 2200,
+    "title": "Sleek Wireless Headphone Set",
+    "price": 44,
     "category": "Electronics",
-    "description": "High performance 15-inch laptop with InfinityEdge display.",
-    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&q=80&w=400"
+    "description": "High-fidelity sound with noise cancellation technology and long battery life.",
+    "images": ["https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800"]
   },
   {
     "id": 11,
-    "title": "Zara Slim Fit Suit",
-    "price": 150,
-    "category": "Clothes",
-    "description": "Elegant slim fit suit for formal occasions.",
-    "image": "https://images.unsplash.com/photo-1594932224456-7489ce476722?auto=format&fit=crop&q=80&w=400"
+    "title": "Sleek Modern Laptop",
+    "price": 999,
+    "category": "Electronics",
+    "description": "Powerful laptop for professionals with a stunning display and slim design.",
+    "images": ["https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800"]
   },
   {
     "id": 12,
-    "title": "Ray-Ban Aviator Classic",
-    "price": 160,
-    "category": "Accessories",
-    "description": "Iconic sunglasses with gold frames and green lenses.",
-    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=400"
+    "title": "Sleek Smartwatch with Vibrant Display",
+    "price": 199,
+    "category": "Electronics",
+    "description": "Track your fitness and stay connected with this stylish smartwatch.",
+    "images": ["https://images.unsplash.com/photo-1544117518-30dd5f2f309d?w=800"]
   },
   {
     "id": 13,
-    "title": "Coffee Maker De'Longhi",
-    "price": 250,
-    "category": "Home Appliance",
-    "description": "Automatic bean-to-cup espresso and cappuccino machine.",
-    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&q=80&w=400"
+    "title": "Sleek Modern Leather Sofa",
+    "price": 850,
+    "category": "Furniture",
+    "description": "Luxurious leather sofa that adds elegance to any modern living room.",
+    "images": ["https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800"]
   },
   {
     "id": 14,
-    "title": "Dyson V15 Vacuum",
-    "price": 700,
-    "category": "Home Appliance",
-    "description": "Powerful cordless vacuum with laser dust detection.",
-    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&q=80&w=400"
+    "title": "Mid-Century Modern Wooden Dining Table",
+    "price": 450,
+    "category": "Furniture",
+    "description": "Beautifully crafted wooden table inspired by mid-century aesthetics.",
+    "images": ["https://images.unsplash.com/photo-1530018607912-eff2df114fbe?w=800"]
   },
   {
     "id": 15,
-    "title": "Gaming Chair Secretlab",
-    "price": 450,
+    "title": "Modern Ergonomic Office Chair",
+    "price": 275,
     "category": "Furniture",
-    "description": "Ergonomic gaming chair for ultimate support.",
-    "image": "https://images.unsplash.com/photo-1598550476439-6847785fce6c?auto=format&fit=crop&q=80&w=400"
+    "description": "Full back support and adjustable features for long work hours.",
+    "images": ["https://images.unsplash.com/photo-1580480055273-228ff50d8ef4?w=800"]
   },
   {
     "id": 16,
-    "title": "Chanel No. 5 Parfum",
-    "price": 210,
-    "category": "Beauty",
-    "description": "The essence of femininity. A powdery floral bouquet in an iconic bottle.",
-    "image": "https://images.unsplash.com/photo-1543467796-03f9052026ae?auto=format&fit=crop&q=80&w=400"
+    "title": "Futuristic Holographic Soccer Cleats",
+    "price": 120,
+    "category": "Shoes",
+    "description": "Stand out on the pitch with these high-performance holographic cleats.",
+    "images": ["https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800"]
   },
   {
     "id": 17,
-    "title": "Nike Yoga Mat",
-    "price": 55,
-    "category": "Sports",
-    "description": "Textured surface for superior grip and 4mm cushioning.",
-    "image": "https://images.unsplash.com/photo-1592432676556-38174f0794a2?auto=format&fit=crop&q=80&w=400"
+    "title": "Rainbow Glitter High Heels",
+    "price": 75,
+    "category": "Shoes",
+    "description": "Sparkling rainbow heels designed for parties and special occasions.",
+    "images": ["https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800"]
   },
   {
     "id": 18,
-    "title": "KitchenAid Artisan Mixer",
-    "price": 850,
-    "category": "Home Appliance",
-    "description": "Versatile stand mixer with 10 speeds and iconic tilt-head design.",
-    "image": "https://images.unsplash.com/photo-1594385208934-27a599ec513d?auto=format&fit=crop&q=80&w=400"
+    "title": "Professional Chef's Knife",
+    "price": 115,
+    "category": "Kitchen",
+    "description": "Hand-forged stainless steel knife for precision cutting.",
+    "images": ["https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800"]
   },
   {
     "id": 19,
-    "title": "North Face Nuptse Jacket",
-    "price": 320,
-    "category": "Clothes",
-    "description": "Retro 1996 design with water-repellent finish and goose down fill.",
-    "image": "https://images.unsplash.com/photo-1638210137537-4d7a781be92d?auto=format&fit=crop&q=80&w=400"
+    "title": "Smart Wi-Fi Security Camera",
+    "price": 89,
+    "category": "Electronics",
+    "description": "Monitor your home 24/7 with 1080p resolution and night vision.",
+    "images": ["https://images.unsplash.com/photo-1558002038-1055907df827?w=800"]
   },
   {
     "id": 20,
-    "title": "Apple Watch Series 9",
-    "price": 850,
+    "title": "Retro Style Turntable",
+    "price": 145,
     "category": "Electronics",
-    "description": "Smater, brighter, and more powerful with advanced health sensors.",
-    "image": "https://images.unsplash.com/photo-1544117518-30dd5f2f309d?auto=format&fit=crop&q=80&w=400"
+    "description": "Enjoy your vinyl collection with this vintage-inspired record player.",
+    "images": ["https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800"]
   },
   {
     "id": 21,
-    "title": "Dior Sauvage Elixir",
-    "price": 180,
-    "category": "Beauty",
-    "description": "An extraordinary concentration of lavender, spices, and rich woods.",
-    "image": "https://images.unsplash.com/photo-1622618991744-fe1407221d89?auto=format&fit=crop&q=80&w=400"
+    "title": "Aromatic Scented Candle Set",
+    "price": 35,
+    "category": "Home",
+    "description": "Relax with the soothing scents of lavender, vanilla, and sandalwood.",
+    "images": ["https://images.unsplash.com/photo-1603006905003-be475563bc59?w=800"]
   },
   {
     "id": 22,
-    "title": "Wilson Basketball NBA Official",
-    "price": 45,
-    "category": "Sports",
-    "description": "High-performance composite leather for indoor and outdoor play.",
-    "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&q=80&w=400"
+    "title": "Ultra-Wide Gaming Monitor",
+    "price": 499,
+    "category": "Electronics",
+    "description": "Immerse yourself in gaming with 144Hz refresh rate and 4K resolution.",
+    "images": ["https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800"]
   },
   {
     "id": 23,
-    "title": "Nespresso Vertuo Pop",
-    "price": 140,
-    "category": "Home Appliance",
-    "description": "Compact coffee machine that brews 5 cup sizes with one touch.",
-    "image": "https://images.unsplash.com/photo-1517088455889-bfa75135412c?auto=format&fit=crop&q=80&w=400"
+    "title": "Bamboo Fiber Bath Towels",
+    "price": 40,
+    "category": "Home",
+    "description": "Extra soft and absorbent eco-friendly bamboo towels.",
+    "images": ["https://images.unsplash.com/photo-1563453392212-326f5e854473?w=800"]
   },
   {
     "id": 24,
-    "title": "Converse Chuck Taylor All Star",
-    "price": 75,
-    "category": "Shoes",
-    "description": "The classic high-top canvas sneaker that never goes out of style.",
-    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&q=80&w=400"
+    "title": "Stainless Steel Water Bottle",
+    "price": 28,
+    "category": "Accessories",
+    "description": "Double-wall insulation keeps drinks cold for 24 hours.",
+    "images": ["https://images.unsplash.com/photo-1602143307185-83bc39284967?w=800"]
   },
   {
     "id": 25,
-    "title": "Swarovski Tennis Bracelet",
-    "price": 195,
-    "category": "Accessories",
-    "description": "Timeless elegance with sparkling clear crystals in a rhodium plating.",
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=400"
+    "title": "Portable Bluetooth Speaker",
+    "price": 55,
+    "category": "Electronics",
+    "description": "Compact and waterproof speaker with surprisingly deep bass.",
+    "images": ["https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=800"]
   },
   {
     "id": 26,
-    "title": "Canon EOS R5",
-    "price": 3800,
-    "category": "Electronics",
-    "description": "Professional mirrorless camera with 45MP sensor and 8K video.",
-    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=400"
+    "title": "Classic Leather Wallet",
+    "price": 45,
+    "category": "Accessories",
+    "description": "Genuine leather bifold wallet with RFID protection.",
+    "images": ["https://images.unsplash.com/photo-1627123424574-724758594e93?w=800"]
   },
   {
     "id": 27,
-    "title": "Timberland 6-Inch Premium Boots",
-    "price": 210,
-    "category": "Shoes",
-    "description": "Original waterproof leather boots for durability and style.",
-    "image": "https://images.unsplash.com/photo-1520639889313-7272275b1c39?auto=format&fit=crop&q=80&w=400"
+    "title": "Dimmable Bedside Lamp",
+    "price": 49,
+    "category": "Furniture",
+    "description": "Touch-controlled lamp with 3 brightness levels and USB port.",
+    "images": ["https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800"]
   },
   {
     "id": 28,
-    "title": "IKEA Billy Bookcase",
-    "price": 120,
-    "category": "Furniture",
-    "description": "Versatile storage solution with adjustable shelves for any room.",
-    "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&q=80&w=400"
+    "title": "Automatic Espresso Machine",
+    "price": 299,
+    "category": "Kitchen",
+    "description": "Brew barista-quality coffee at the touch of a button.",
+    "images": ["https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800"]
   },
   {
     "id": 29,
-    "title": "Lego Star Wars Millennium Falcon",
-    "price": 850,
-    "category": "Toys",
-    "description": "Ultimate collector series with over 7,500 pieces.",
-    "image": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?auto=format&fit=crop&q=80&w=400"
+    "title": "Cotton Canvas Tote Bag",
+    "price": 15,
+    "category": "Accessories",
+    "description": "Eco-friendly and durable bag for shopping or beach days.",
+    "images": ["https://images.unsplash.com/photo-1544816155-12df9643f363?w=800"]
   },
   {
     "id": 30,
-    "title": "Oral-B iO Series 9",
-    "price": 280,
-    "category": "Health",
-    "description": "Electric toothbrush with revolutionary magnetic technology.",
-    "image": "https://images.unsplash.com/photo-1559591937-e6204d1ca608?auto=format&fit=crop&q=80&w=400"
-  },
+    "title": "Noise Cancelling Earbuds",
+    "price": 129,
+    "category": "Electronics",
+    "description": "True wireless earbuds with active noise cancellation and sweat resistance.",
+    "images": ["https://images.unsplash.com/photo-1590608897129-79da98d15969?w=800"]
+  }
+,
   {
     "id": 31,
     "title": "Vans Old Skool",
